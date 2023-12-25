@@ -6379,7 +6379,17 @@
         "respuesta2": "The firmness of a slope is determined by geotechnical investigations that evaluate the type of soil, the slope of the soil, the water content, vegetation, and seismic activity.<a href=\"https://repositorio.upt.edu.pe/handle/20.500.12969/1543\" target=\"_blank\" rel=\"nofollow\">«Análisis comparativo de la resistencia del concreto en muros de contención por esclerómetro y rotura de cilindros en el distrito de Ciudad Nueva, Tacna-2020»</a>",
         "pregunta3": "How does water affect the Stability of a Slope?",
         "respuesta3": "It diminishes the shear resistance of the soil, resulting in an erosion or creating internal pressure in the slope, which could lead to a landslide.<a href=\"http://repositorio.unesum.edu.ec/handle/53000/2955\" target=\"_blank\" rel=\"nofollow\">«Repositorio Digital UNESUM: Diseño de muro de contención en la calle Quito, entre 9 de Octubre e Imbabura,  costado derecho de la ciudad de Jipijapa»</a>"
+      },
+      {
+        "id": "retainingwall72",
+        "pregunta1": "What is the cost of carrying out a Retaining Wall Study in [@location]?",
+        "respuesta1": "{The cost to undertake a Retaining Wall Study can fluctuate between $6,000 and $20,000 dollars depending on how complex is the project, height of the wall, and the geographical location.",
+        "pregunta2": "Does a 3-foot Retaining Wall need drainage?",
+        "respuesta2": "Yes, even a 3-foot retaining wall can benefit from drainage. Proper drainage prevents water buildup, which can add pressure and reduce the wall's lifespan<a href=\"https://repositorio.upt.edu.pe/handle/20.500.12969/1543\" target=\"_blank\" rel=\"nofollow\">«Análisis comparativo de la resistencia del concreto en muros de contención por esclerómetro y rotura de cilindros en el distrito de Ciudad Nueva, Tacna-2020»</a>",
+        "pregunta3": "How do Retaining Walls work?",
+        "respuesta3": "Retaining walls work by holding back soil and preventing it from eroding. They counteract the lateral force of the soil with their weight and design.<a href=\"http://repositorio.unesum.edu.ec/handle/53000/2955\" target=\"_blank\" rel=\"nofollow\">«Repositorio Digital UNESUM: Diseño de muro de contención en la calle Quito, entre 9 de Octubre e Imbabura,  costado derecho de la ciudad de Jipijapa»</a>"
       }
+
 
 
     ]
